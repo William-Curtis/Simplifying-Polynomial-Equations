@@ -9,7 +9,5 @@ The second step will be doing the math to simplify into standard form. The progr
 up until the equation is fully simplified into standard form.
 
 Example:
-    Generic Input:
-        (a1x^n1 + a2x^n1-1 + … + a3x + a4)^p1 … (b1x^n2 + b2x^n2-1 + … + b3x + b4)^p2 + … + (c1x^n3 + c2x^n3-1 + … + c3x + c4)^p3 … (d1x^n4 + d2x^n4-1 + … + d3x + d4)^p4
-    Generic Output:
-        g1x^n + g2x^n-1 + … + g3x + g4
+Generic Input:  (a1x^n1 + a2x^n1-1 + … + a3x + a4)^p1 … (b1x^n2 + b2x^n2-1 + … + b3x + b4)^p2 + … + (c1x^n3 + c2x^n3-1 + … + c3x + c4)^p3 … (d1x^n4 + d2x^n4-1 + … + d3x + d4)^p4
+Generic Output: g1x^n + g2x^n-1 + … + g3x + g4
